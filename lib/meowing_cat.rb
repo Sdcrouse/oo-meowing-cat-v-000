@@ -9,4 +9,5 @@ end
 
 sam = Cat.new 
 sam.name = "Sam"
+puts sam.name
 sam.meow 
