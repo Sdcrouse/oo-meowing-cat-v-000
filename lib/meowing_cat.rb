@@ -9,5 +9,5 @@ end
 
 sam = Cat.new 
 sam.name = "Sam"
-sam.name
+puts "Cat's name: #{sam.name}"
 sam.meow 
